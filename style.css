@@ -475,7 +475,7 @@ html {
     object-fit: cover;
     object-position: right bottom;
     display: block;
-    z-index: 2;
+    z-index: 9999;
 }
 
 /* =========================
